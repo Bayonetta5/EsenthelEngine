@@ -10,15 +10,15 @@
 /Linux/build
 /Linux/dist
 
-*.bc
-*.lib
-*.db
-*.ipch
-*.log
-*.pch
-*.tlog
-*.ilk
-*.pdb
-*.exe
-*.idb
-*.opendb
+/*.bc
+/*.lib
+/*.db
+/*.ipch
+/*.log
+/*.pch
+/*.tlog
+/*.ilk
+/*.pdb
+/*.exe
+/*.idb
+/*.opendb
